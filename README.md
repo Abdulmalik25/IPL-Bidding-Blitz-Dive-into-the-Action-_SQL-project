@@ -115,3 +115,8 @@ order by total desc;
 ```
 ![3h](https://github.com/Abdulmalik25/IPL-Bidding-Blitz-Dive-into-the-Action-_SQL-project/assets/153974173/a340ae46-6a6e-42f3-a3fd-9cd2b13ebe23)
 
+
+# Conclusion
+Throughout this project, we've successfully established a robust database for analyzing IPL match data, leveraging SQL to dive deep into game statistics and bidder behaviors. By constructing and querying the database, we've gained valuable insights into team performances, stadium activities, and individual contributions. This project not only enhances our understanding of data relationships and SQL capabilities but also sets a strong foundation for further exploratory analysis and decision-making based on real-time sports data.
+
+
